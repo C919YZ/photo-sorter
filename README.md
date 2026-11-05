@@ -184,11 +184,10 @@ powershell -ExecutionPolicy Bypass -File .\tests\run-tests.ps1
 | 对外分发安装包、公开转载 | ❌ 禁止 |
 | 转售、随硬件或服务销售、二次打包收费 | ❌ 严禁 |
 
-这就是"源码公开可读可改、企业内部随便用、但谁也别拿去卖"的那种授权。需要对外分发（例如集成进你销售的产品）请单独联系作者授权。
 
 > 严格来说，这不是 OSI 定义下的"开源软件"，而是 **source-available（源码可见）**。GitHub 会把它标成 "Other" 而不是 "Open Source"。如果你希望它变成 OSI 开源项目，把 `LICENSE` 换成 MIT / Apache-2.0 即可 —— 但那样就没有"禁止倒卖"这条约束了。
 
-**其他授权**：请开 Issue 或邮件联系作者（把这里换成你的邮箱）。
+**其他授权**：请开 Issue 或邮件联系作者（c9195201314@outlook.com）。
 
 ## 免责声明
 
